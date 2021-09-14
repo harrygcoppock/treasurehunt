@@ -1,6 +1,6 @@
 # treasurehunt
 
-Can you find the treasure??? Clone this repo locally and try and get the treasure back home safely.
+Can you find the treasure??? Clone this repo locally and try and get the treasure back home safely using ONLY shell commands.
 
 
 The person who gets the chest, WITH the key to unlock it in the 'home' directory first wins. 

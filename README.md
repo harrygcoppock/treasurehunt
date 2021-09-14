@@ -8,4 +8,4 @@ You will also need to provide a copy of your shell commands to proove that you n
 You also need to change the names of the files containing the key and the chest to 'my_key.txt' and 'my_treasure.txt' respectively.
 Good luck!
 
-_hint_ A vist to Long John Silver my help! 
+_hint_ A vist to Long John Silver may help! 

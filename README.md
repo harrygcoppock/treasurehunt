@@ -1,6 +1,6 @@
 # treasurehunt
 
-Can you find the treasure??? Clone this repo locally and try and get the treasure back home safely.
+Can you find the treasure??? Clone this repo locally and try and get the treasure back home safely using ONLY shell commands.
 
 
 The person who gets the chest, WITH the key to unlock it in the 'home_sweet_home' directory first wins. 
@@ -8,4 +8,4 @@ You will also need to provide a copy of your shell commands to proove that you n
 You also need to change the names of the files containing the key and the chest to 'my_key.txt' and 'my_treasure.txt' respectively AND change the permission of the file to that ONLY you can read, write and excecute it.
 Good luck!
 
-_hint_ A vist to Long John Silver my helpful! 
+_hint_ A vist to Long John Silver may help! 
